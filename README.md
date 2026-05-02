@@ -1,3 +1,5 @@
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)
+
 ## Valentine's Day Tic Tac Toe
 
 [**Live Site**](https://smurf11k.github.io/feb14-tictactoe/)
